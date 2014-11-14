@@ -1,7 +1,7 @@
 backdoor
 ========
 
-Backdoor.js is a micro helper for a simple and helpful [JavaScript debugging technique](http://dm.gl/2014/11/14/JavaScript-backdoor-debugging/). Create a backdoor in some function scope and later access objects available in the scope or parent scopes.
+Backdoor.js is a micro helper for a simple and helpful [JavaScript debugging technique](http://dm.gl/2014/11/14/JavaScript-backdoor-debugging/). Create a backdoor in some function scope and later access objects available in the scope or its parent scopes.
 
 ```
 $ npm install backdoor
