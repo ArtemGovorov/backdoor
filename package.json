@@ -1,0 +1,23 @@
+{
+  "name": "backdoor",
+  "version": "1.0.0",
+  "description": "Micro helper function for a simple but powerfull JavaScript debugging technique",
+  "main": "backdoor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtemGovorov/backdoor.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "debugging"
+  ],
+  "author": "Artem Govorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtemGovorov/backdoor/issues"
+  },
+  "homepage": "https://github.com/ArtemGovorov/backdoor"
+}

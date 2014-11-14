@@ -1,4 +1,4 @@
 backdoor
 ========
 
-backdoor.js is a small helper function for a simple but powerfull JavaScript debugging technique
+backdoor.js is a micro helper function for a simple but powerful JavaScript debugging technique
